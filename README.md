@@ -18,7 +18,7 @@
 
 | Dashboard UI | Order History | Analytics |
 |--------------|----------------|------------|
-| ![E-Commerce-System-1](https://github.com/user-attachments/assets/bfc27578-0449-449e-85d6-46cbd15c90eb)|   ![order histroy](https://github.com/user-attachments/assets/4e2162df-0d1e-414a-81ed-496ff3ca60e9)|   ![sales](https://github.com/user-attachments/assets/3e60f45e-50e3-4065-a3d5-bd5597f31937)|
+| ![E-Commerce-System![E-Commerce-System-1](https://github.com/user-attachments/assets/a9fb34ce-b5e1-4e55-b2ee-2b2daf985bb0)]| ![order histroy](https://github.com/user-attachments/assets/73f65d8f-2e84-4c94-90ff-bf0385c7e85e)|    ![sales](https://github.com/user-attachments/assets/9185306c-641f-4a1d-a8ea-35d8523d1bdc)|
 
 
 
